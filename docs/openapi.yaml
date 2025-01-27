@@ -10,7 +10,6 @@ tags:
   - name: Contacts
     description: Operations about contacts.
 servers:
-  - url: http://localhost:3000
   - url: https://contacts-app-7p1d.onrender.com
 paths:
   /contacts:
